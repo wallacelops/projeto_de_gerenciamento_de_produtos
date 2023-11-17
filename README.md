@@ -1,12 +1,15 @@
 ## Projeto de Gerenciamento de Produtos - Ada Tech - VemSerTech - Ifood
+
 ### Este projeto foi desenvolvido como parte do programa VemSerTech em colaboração com o Ifood e pela Ada Tech. Os integrantes responsáveis por este projeto são:
 
-Vitor Fontenele - https://github.com/fontenelevitor
-Amanda Lima - https://github.com/amandailg
-Daniele Travessa - https://github.com/DanieleTravessa
+- [Wallace Lopes](https://github.com/wallacelops)
+- [Vitor Fontenele](https://github.com/fontenelevitor)
+- [Amanda Lima](https://github.com/amandailg)
+- [Daniele Travessa](https://github.com/DanieleTravessa)
 
 ## Descrição
-Este é um sistema simples de gerenciamento de produtos em Python. Ele oferece funcionalidades básicas para cadastrar, consultar, listar, atualizar e excluir produtos. Os dados dos produtos são armazenados em um arquivo de texto (produtos.txt).
+
+Este é um sistema simples de gerenciamento de produtos em Python. Ele oferece funcionalidades básicas para cadastrar, consultar, listar, atualizar e excluir produtos. Os dados dos produtos são armazenados em um arquivo de texto (`produtos.txt`).
 
 ## Funcionalidades
 
