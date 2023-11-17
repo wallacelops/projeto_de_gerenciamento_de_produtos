@@ -1,0 +1,14 @@
+ID: 525529
+Nome: Fluconazol 150mg Generico Cimed 2 Comprimidos
+Especificacoes: Generico. Absorvido via oral, com alivio em 1 dia, variando 1 hora e 9 dias.
+Quantidade: 478
+Descricao: Para Sistema Imune
+Valor: 2.99
+
+ID: 690473
+Nome: Rosuvastatina Calcica 10mg Generico Althaia 30 Comprimidos
+Especificacoes: Reducao de colesterol total e LDL-C em pacientes com hipercoleterolemia.
+Quantidade: 785
+Descricao: Tarja Vermelha
+Valor: 19.79
+
